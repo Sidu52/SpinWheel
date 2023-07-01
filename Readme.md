@@ -1,4 +1,5 @@
 Wheel Game HOSTED LINK=>https://sidhuspinwheel.netlify.app/
+
 This project is a simple wheel game implemented using React. The game allows users to spin a wheel and try their luck to win a prize. The wheel consists of multiple sections, each representing a different prize value.
 
 How to Run the Project
